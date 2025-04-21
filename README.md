@@ -1,0 +1,2 @@
+# newgit
+this my git
